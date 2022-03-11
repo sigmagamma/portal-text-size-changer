@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['portal-text-size-changer.py'],
-             pathex=['C:\\Users\\shaig\\PycharmProjects\\portalsubsize'],
+             pathex=['C:\\Users\\xxxx\\PycharmProjects\\portalsubsize'],
              binaries=[],
              datas=[('game_data.json', '.')],
              hiddenimports=[],
