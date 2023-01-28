@@ -1,4 +1,8 @@
 # Portal text size changer
+This repository will no longer be updated - continued updates will be done as part of 
+https://github.com/sigmagamma/portl
+
+
 This creates and installs a portal configuration file that increases the size of the close captions and reduces the size of the credits text in Portal.
 Currently only supports Windows.
 Release is here:
